@@ -1,5 +1,5 @@
 # Ayoola Abimbola
-# HW6
+
 
 '''
 List of functions:
